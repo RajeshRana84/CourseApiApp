@@ -11,7 +11,7 @@ public class CourseStarter {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		SpringApplication.run(CourseStarter.class, args);
-		System.out.println("Hello00");
+		System.out.println("Hello00rrrrr");
 
 	}
 
