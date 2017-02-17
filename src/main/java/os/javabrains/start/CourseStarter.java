@@ -7,10 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CourseStarter {
 
 	// The start of the project
+	// Another comment
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		SpringApplication.run(CourseStarter.class, args);
-		System.out.println("Hello");
+		System.out.println("Hello00");
 
 	}
 
