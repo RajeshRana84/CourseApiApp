@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CourseStarter {
 
 	// The start of the project
-	// Another comment
+	// Recent Comment
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		SpringApplication.run(CourseStarter.class, args);
