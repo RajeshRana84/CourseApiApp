@@ -4,6 +4,7 @@
   <artifactId>course-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Spring boot application</name>
+  <packaging>war</packaging>
   
     <parent>
         <groupId>org.springframework.boot</groupId>
